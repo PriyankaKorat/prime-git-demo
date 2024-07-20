@@ -3,5 +3,6 @@ package com.prime;
 public class PrintMyName {
     public static void main(String[] args) {
         System.out.println("Priyanka Korat");
+        System.out.println("njh");
     }
 }
